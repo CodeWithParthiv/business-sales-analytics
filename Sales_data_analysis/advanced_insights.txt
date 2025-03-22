@@ -1,0 +1,45 @@
+ADVANCED SALES ANALYSIS INSIGHTS
+================================
+
+1. CUSTOMER INSIGHTS
+-------------------
+Total unique customers: 100
+Average customer lifetime value: $132,208.51
+Average purchase frequency: 0.0129 purchases per day
+
+Top 3 customers by revenue:
+  1. Customer 1020: $627,536.00
+  2. Customer 1059: $392,811.00
+  3. Customer 1012: $353,233.00
+
+2. PRODUCT PERFORMANCE
+---------------------
+Top 5 products by growth rate:
+  1. Smartphone: 36.96%
+  2. Monitor: 13.72%
+  3. Tablet: 8.31%
+  4. Laptop: 5.50%
+  5. Printer: 4.27%
+
+3. REGIONAL INSIGHTS
+-------------------
+Top product by region:
+  West: Smartphone ($881,962.00)
+  North: Keyboard ($687,049.00)
+  East: Laptop ($721,679.00)
+  South: Mouse ($552,080.00)
+
+4. SEASONAL PATTERNS
+-------------------
+Peak sales month by category:
+  Electronics: Feb ($1,090,539.00)
+  Accessories: Apr ($869,242.00)
+
+5. PRICE ANALYSIS
+----------------
+Price ranges by product (top 5 by average price):
+  Laptop: $102.00 - $4989.00 (avg: $3025.19)
+  Tablet: $245.00 - $4926.00 (avg: $2701.12)
+  Monitor: $136.00 - $4905.00 (avg: $2683.19)
+  Mouse: $110.00 - $4958.00 (avg: $2577.81)
+  Smartphone: $138.00 - $4941.00 (avg: $2566.09)
